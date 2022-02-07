@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+author: "Kiera Matiska"
+date: "2/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 4 Best practices
+
+- Vertical Formatting
+- Informative comments
+- Informative variable names
+- Version Control
+
+### Other best practices
+
+- Documentation
+- Good communication
+- Reproducibility (instructions in code)
+- Doing things in small steps
+- Pair programming
+
+I am taking this course because I am interested in R coding and data analysis. I want to learn more skills that will help my coding and I want to be able to practice with R more. Practice allows you to improve and without a class, I do not think I would practice.
+
+I don't have much of a data science background. My data science background consists of the introductory data science course here at Bren and advanced data analysis, which I am taking currently.
